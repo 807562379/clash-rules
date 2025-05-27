@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,viabtc.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,viabtc
+DOMAIN-KEYWORD,mempool
+DOMAIN-KEYWORD,miningpoolstats
+DOMAIN-KEYWORD,public-pool
+DOMAIN-KEYWORD,ckpool
