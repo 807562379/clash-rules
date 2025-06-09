@@ -6,11 +6,11 @@
         "ckpool.org",
         "public-pool.io",
 		"btc.viabtc.io"
-      ]
-	  "domain_keyword": [
+      ],
+      "domain_keyword": [
         "ckpool",
-		"viabtc",
-		"public-pool"
+	"viabtc",
+	"public-pool"
       ]
     }
   ]
